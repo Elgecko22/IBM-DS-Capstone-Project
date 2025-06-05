@@ -49,7 +49,7 @@ The goal is to predict whether the **first stage of a Falcon 9 rocket will succe
 - Tuned models using GridSearchCV for performance and interpretability
 - Developed insights using visual analytics for business-facing insights
 
-** Author
+## Author
 **Anthony Partida**  
 Cal Poly, San Luis Obispo | Business Admin, Information Systems  
 Passionate about data analytics and science
